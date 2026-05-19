@@ -134,8 +134,3 @@ Findings were synthesized into 7 strategic recommendations, each grounded in the
 
 *Luca Frittitta, Data Science, Analytics e Agenti AI
 , Start2Impact.*
-
----
-
-
-Le modifiche principali rispetto alla versione precedente sono nella **struttura del repository**, che ora riflette i file reali, con la nota che spiega la relazione tra i due CSV — il file `_modify` viene generato dal notebook Python e usato come input per Tableau. Questo è un dettaglio importante per chi legge il codice e capisce il flusso dei dati. Ricordati solo di aggiungere il link Tableau e il tuo nome!
